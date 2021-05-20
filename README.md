@@ -2,7 +2,7 @@
 A take home assessment designed for Full-stack or Backend developers
 ## Best matched restaurants
 ### Introduction
-This assessment is designed to test your thinking process and coding skills when facing a real industry problem. We're looking for code that is clean, readable, testable, robust, performant, and maintainable. We will only assess you based on the requirements listed in the problem description below, but feel free to add extra features beyond these requirements. If you continue to our interview panel stage, we will ask you questions about your implementation.
+This assessment is designed to test your thinking process and coding skills when facing a real industry problem. We will only assess you based on the requirements listed in the problem description below, but feel free to add extra features beyond these requirements. Please note that we're looking for code that is clean, readable, testable, robust, performant, and maintainable. If you continue to our interview panel stage, we will ask you questions about your implementation.
 
 Since this assessment includes a searching function, we kindly ask you to avoid out of box search engines such as ElasticSearch. Instead, you should write the searching logic by yourself. Other than that, please feel free to use any languages or frameworks you are familiar with. We are focusing on your idea and your code quality, hence will not make judgments on what technologies you choose. All the data you will need in this assessment will be provided to you as **.csv** files.
 
